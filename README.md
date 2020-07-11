@@ -268,3 +268,6 @@ app.listen(3080)
 console.log('Server running @ http://localhost:3080')
 ```
 
+## License
+
+[MIT](LICENSE) &copy; [汪磊](https://zce.me)
